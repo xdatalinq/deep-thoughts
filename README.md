@@ -31,7 +31,7 @@
   ![image](https://user-images.githubusercontent.com/89672040/216676849-70a0d2f4-fa41-4e3f-ae29-217e4fb9f25b.png)
   
   ## Live
-  New Heroku link coming soon!
+  Live: https://deep-thoughts-app-a8c1183f4f44.herokuapp.com
   
   ## Repository
   Repo: https://github.com/xdatalinq/deep-thoughts
